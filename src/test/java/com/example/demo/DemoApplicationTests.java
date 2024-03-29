@@ -10,7 +10,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertThat("201").isEqualTo("201");
+		assertThat("200").isEqualTo("201");
 	}
 
 }
